@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td><a href="index.html">Home</a></td>
-<td><a href="research.php">Research</a></td>
+<td><a href="research.html">Research</a></td>
 <td><a href="teaching.php">Teaching</a></td>
 <td><a href="other.php">Other</a></td>
 </tr>
@@ -41,8 +41,24 @@ Andreas Wieser
 
 <img src="images-static/pic1.jpg" width="600" >
 
-<div id="right">
 <h1 style="background-color:Tomato;">website in the making</h1>
+
+<p>
+I am currently a postdoc under the guidance of <a href="http://www.ma.huji.ac.il/~elon/">Elon Lindenstrauss</a>	and Shahar Mozes.
+Before that, I was a PhD student with <a href="https://people.math.ethz.ch/~menashea/">Menny Aka</a> and <a href="https://people.math.ethz.ch/~einsiedl/">Manfred Einsiedler</a> at ETH Zurich.
+My research concerns homogeneous dynamics and its application to problems in number theory.
+See for example <a href="https://www.youtube.com/watch?v=ejUHAPYKRGU">this talk</a> I gave at <a href="https://www.icts.res.in/program/etds2019">ICTS</a> in Bangalore.
+
+<p>
+<b> Curriculum Vitae </b> <a href="other/cv_AW.pdf">CV</a>
+</p>
+
+
+From January to March 2020 I was a visitor at the Hausdorff research institute in Bonn for the trimester program <a href="https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/dynamics-topology-and-numbers/description/">"Dynamics: Topology and Numbers"</a>.
+From October 2020 to April 2021 I was visiting Ilya Khayutin at Northwestern University thanks to <a href="http://p3.snf.ch/Project-195737">this</a> SNSF mobility fellowship.
+</p>
+
+<div id="right">
 
 <table>
 <tr> <td>Hebrew University</td></tr>
@@ -65,11 +81,16 @@ Andreas Wieser
 
 <br clear="all" />
 
-
 <table cellpadding="2">
 <tr>
-  <td ><i>Last modified on <? echo  date("F d, Y", filemtime($_SERVER["SCRIPT_FILENAME"])) ?>.</i></td>
-  <td ><i> Template by <a href="https://math.dartmouth.edu/news-resources/computing/resources_common_webpages.phtml"> T. Shemanske </a> </i> </td>
+  <td ><i id="demo"></i>
+<script>
+	var x = new Date(document.lastModified);
+	var showAs = x.getDate() + "-" + (x.getMonth() + 1) + "-" + x.getFullYear();
+  document.getElementById("demo").innerHTML = "Last modified on "+showAs+".";
+</script>   
+</td>
+  <td ><i> Template by <a href="https://math.dartmouth.edu/news-resources/computing/resources_common_webpages.phtml"> T. Shemanske</a>. </i> </td>
 </tr>
 </table>
 
