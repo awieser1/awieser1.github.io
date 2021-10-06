@@ -28,14 +28,12 @@ From October 2020 to April 2021 I was visiting Ilya Khayutin at Northwestern Uni
 <tr><td>Einstein Institute of Mathematics</td></tr>
 <tr><td>Edward J. Safra Campus </td></tr>
 <tr><td>Jerusalem</td>
-
 </table>
 
 <table>
 <tr><td><bold>Email:</bold> first.lastname (at) mail.huji.ac.il</td> </tr>
 <tr><td><bold>Phone:</bold> currently no office phone</td> </tr>
 <tr><td><bold>Office:</bold> Manchester building 306</td> </tr>
-</tr>
 </table>
 
 </div>
