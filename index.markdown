@@ -27,7 +27,7 @@ From October 2020 to April 2021 I was visiting Ilya Khayutin at Northwestern Uni
 <tr> <td>Hebrew University</td></tr>
 <tr><td>Einstein Institute of Mathematics</td></tr>
 <tr><td>Edward J. Safra Campus </td></tr>
-<tr><td>Jerusalem</td></tr>
+<tr><td>Jerusalem</td>
 
 </table>
 
