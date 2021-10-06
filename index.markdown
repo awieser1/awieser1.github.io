@@ -7,7 +7,7 @@ title: Andreas Wieser
 ---
 
 <p>
-I am currently a postdoc under the guidance of <a href="http://www.ma.huji.ac.il/~elon/">Elon Lindenstrauss</a>	and Shahar Mozes.
+I am currently a postdoc under the guidance of <a href="http://www.ma.huji.ac.il/~elon/">Elon Lindenstrauss</a>	and Shahar Mozes at the Einstein Institute of Mathematics.
 Before that, I was a PhD student with <a href="https://people.math.ethz.ch/~menashea/">Menny Aka</a> and <a href="https://people.math.ethz.ch/~einsiedl/">Manfred Einsiedler</a> at ETH Zurich.
 My research concerns homogeneous dynamics and its application to problems in number theory.
 See for example <a href="https://www.youtube.com/watch?v=ejUHAPYKRGU">this talk</a> I gave at <a href="https://www.icts.res.in/program/etds2019">ICTS</a> in Bangalore.
