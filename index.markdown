@@ -22,10 +22,8 @@ See for example <a href="https://www.youtube.com/watch?v=ejUHAPYKRGU">this talk<
 From January to March 2020 I was a visitor at the Hausdorff research institute in Bonn for the trimester program <a href="https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/dynamics-topology-and-numbers/description/">"Dynamics: Topology and Numbers"</a>.
 From October 2020 to April 2021 I was visiting Ilya Khayutin at Northwestern University thanks to <a href="http://p3.snf.ch/Project-195737">this</a> SNSF mobility fellowship.
 
-||bla|
-|--|--|
-||blabla|
 
+{: style="text-align: right" }
 - Hebrew University
 - Einstein Institute of Mathematics
 
