@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 
 footer {
-  background-color: gray !important;
+  background-color: gray;
 }
 
 navigation {
-	border-style: none;
+	border-style: none !important;
 }
