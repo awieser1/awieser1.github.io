@@ -32,11 +32,6 @@ Edward J. Safra Campus
 {: style="text-align: right" }
 Jerusalem
 
-\begin{array}
-a & b\\
-c & d
-\end{array}
-
 <!--
 <div id="right">
 
