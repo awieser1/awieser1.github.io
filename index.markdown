@@ -27,19 +27,27 @@ From October 2020 to April 2021 I was visiting Ilya Khayutin at Northwestern Uni
 
 <div id="right">
 
+- Hebrew University
+- Einstein Institute of Mathematics
+
 <ul float="right">
+
 <li> Hebrew University
 <li> Einstein Institute of Mathematics
+
 </ul>
 
-<!--
+
 <table>
+
 <tr> <td>Hebrew University</td></tr>
 <tr><td>Einstein Institute of Mathematics</td></tr>
 <tr><td>Edward J. Safra Campus </td></tr>
 <tr><td>Jerusalem</td>
+
 </table>
 
+<!--
 <table>
 <tr><td><bold>Email:</bold> first.lastname (at) mail.huji.ac.il</td> </tr>
 <tr><td><bold>Phone:</bold> currently no office phone</td> </tr>
