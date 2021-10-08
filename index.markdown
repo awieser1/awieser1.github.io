@@ -23,7 +23,7 @@ From January to March 2020 I was a visitor at the Hausdorff research institute i
 From October 2020 to April 2021 I was visiting Ilya Khayutin at Northwestern University thanks to <a href="http://p3.snf.ch/Project-195737">this</a> SNSF mobility fellowship.
 
 
-{: style="text-align: right" }
+{: style="text-align: justify" }
 - Hebrew University
 - Einstein Institute of Mathematics
 
