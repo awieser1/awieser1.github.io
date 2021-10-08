@@ -25,11 +25,11 @@ From October 2020 to April 2021 I was visiting Ilya Khayutin at Northwestern Uni
 
 {: style="text-align: right" }
 Hebrew University
-
+{: style="text-align: right" }
 Einstein Institute of Mathematics
-
+{: style="text-align: right" }
 Edward J. Safra Campus
-
+{: style="text-align: right" }
 Jerusalem
 
 <!--
@@ -55,13 +55,12 @@ Jerusalem
 
 </table>
 
-<!--
 <table>
 <tr><td><bold>Email:</bold> first.lastname (at) mail.huji.ac.il</td> </tr>
 <tr><td><bold>Phone:</bold> currently no office phone</td> </tr>
 <tr><td><bold>Office:</bold> Manchester building 306</td> </tr>
 </table>
--->
 
 </div>
 -->
+
