@@ -31,6 +31,8 @@ From October 2020 to April 2021 I was visiting Ilya Khayutin at Northwestern Uni
 <li> Hebrew University
 <li> Einstein Institute of Mathematics
 </ul>
+
+<!--
 <table>
 <tr> <td>Hebrew University</td></tr>
 <tr><td>Einstein Institute of Mathematics</td></tr>
@@ -43,5 +45,5 @@ From October 2020 to April 2021 I was visiting Ilya Khayutin at Northwestern Uni
 <tr><td><bold>Phone:</bold> currently no office phone</td> </tr>
 <tr><td><bold>Office:</bold> Manchester building 306</td> </tr>
 </table>
-
+-->
 </div>
