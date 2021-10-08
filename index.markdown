@@ -6,7 +6,7 @@ layout: default
 title: Andreas Wieser
 ---
 
-<p color="red">
+<p style="color:red">
 This site is in the works.
 </p>
 
