@@ -20,7 +20,7 @@ Here is a list of my publications from new to old.
 <!-- higherdim subspaces -->
 <li>
 M. Aka, A. Musso, and A. Wieser. <a href="https://arxiv.org/abs/2103.05163" style="color:blue"> Equidistribution of rational subspaces and their shapes </a>. 2021, arXiv:2103.05163.
-	<details style="color:gray">
+<details style="color:gray">
     <summary>Abstract</summary>
     To any $k$-dimensional subspace of $\mathbb{Q}^n$ one can naturally associate a point in the Grassmannian $\mathrm{Gr}_{n,k}(\mathbb{R})$ and two shapes of lattices of rank $k$ and $n-k$ respectively. 
     These lattices originate by intersecting the $k$-dimensional subspace with the lattice $\mathbb{Z}^n$. Using unipotent dynamics we prove simultaneous equidistribution of all of these objects under a congruence conditions when $(k,n)\neq (2,4)$.
