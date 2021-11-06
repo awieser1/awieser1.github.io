@@ -8,7 +8,6 @@ title: Andreas Wieser
 
 <p style="color:red">
 This site is in the works.
-test
 </p>
 
 
