@@ -15,16 +15,20 @@ This site is in the works.
 ### Address
 
 Manchester House 306
+
 Einstein Institute of Mathematics
+
 Edward J. Safra Campus
+
 Hebrew University Jerusalem
 
 ### Email
-andreas.wieser (at) mail.huji.ac.il
+
+> andreas.wieser (at) mail.huji.ac.il
 
 or
 
-andreaslwieser (at) gmail.com
+> andreaslwieser (at) gmail.com
 
 
 
