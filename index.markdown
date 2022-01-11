@@ -19,7 +19,7 @@ See for example <a href="https://www.youtube.com/watch?v=ejUHAPYKRGU">this talk<
 
 > Curriculum Vitae  [CV](./cv_AW.pdf)
 
-{{ '/cv_AW.pdf' | relative_url }}
+<a href="{{ '/cv_AW.pdf' | relative_url }}">??? </a> 
 
 
 From January to March 2020 I was a visitor at the Hausdorff research institute in Bonn for the trimester program <a href="https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/dynamics-topology-and-numbers/description/">"Dynamics: Topology and Numbers"</a>.
