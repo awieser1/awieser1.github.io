@@ -15,8 +15,7 @@ This site is in the works.
 
 ### Feedback and self-assessment <br> in undergraduate student seminars in mathematics
 
-with <a href="https://manuelluethi.github.io/">Manuel Luethi</a>, ETH Learning and Teaching Journal, Vol 2, No 1, 2020. Link <a href="https://learningteaching.ethz.ch/index.php/lt-eth/article/view/77/38">here</a>
-
+with <a href="https://manuelluethi.github.io/">Manuel Luethi</a>, ETH Learning and Teaching Journal, Vol 2, No 1, 2020. Link <a href="https://learningteaching.ethz.ch/index.php/lt-eth/article/view/77/38">here</a>  
 <details style="color:gray">
     <summary>Abstract</summary>
     In this article we will discuss bachelor’s seminars in mathematics at ETH. Most students (in 
@@ -30,7 +29,7 @@ extensive  meetings  with  the  organizers  and  few  mandatory  exercises.
 We  will  evaluate  the success  of  these  measures  and,  where  success  is  scarce,  propose  further  measures  to possibly address these problems.
 </details> 
   
-<h3>Analysis I/II</h3>
+### Analysis I/II
 <p>with <a href="https://people.math.ethz.ch/~einsiedl/">Manfred Einsiedler</a>. A (most likely) outdated complete version is available <a href="lecture_notes/Analysis-Skript.pdf">here</a>, 
 the updated work-in-progress is <a href="https://people.math.ethz.ch/~einsiedl/Analysis-Skript.pdf">here</a>.</p>
 
