@@ -15,11 +15,8 @@ This site is in the works.
 ### Address
 
 Manchester House 306
-
 Einstein Institute of Mathematics
-
 Edward J. Safra Campus
-
 Hebrew University Jerusalem
 
 ### Email
