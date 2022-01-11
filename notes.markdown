@@ -28,6 +28,8 @@ implemented two tweaks to the standard setup. These are
 extensive  meetings  with  the  organizers  and  few  mandatory  exercises.
 We  will  evaluate  the success  of  these  measures  and,  where  success  is  scarce,  propose  further  measures  to possibly address these problems.
 </details>  
+
+
   
 ### Analysis I/II
 <p>with <a href="https://people.math.ethz.ch/~einsiedl/">Manfred Einsiedler</a>. A (most likely) outdated complete version is available <a href="lecture_notes/Analysis-Skript.pdf">here</a>, 
