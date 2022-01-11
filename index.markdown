@@ -7,7 +7,7 @@ title: Andreas Wieser
 ---
 
 <p style="color:red">
-This site is in the works.
+This site is currently in the works.
 </p>
 
 # About me
