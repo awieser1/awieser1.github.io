@@ -84,7 +84,7 @@ What is... the shape of a lattice?
 
 <h3>On the "Banana"-Trick of Margulis</h3>
 
-Short and very preliminary <a href="lecture_notes/banana.pdf">notes</a> explaining the thickening trick developed by G.A. Margulis in a specific instance. These were used in the seminar "Homogeneous Dynamics and Counting Problems" mentioned elsewhere.
+Short and very preliminary [notes](lecture_notes/banana.pdf) <a href="lecture_notes/banana.pdf">notes</a> explaining the thickening trick developed by G.A. Margulis in a specific instance. These were used in the seminar "Homogeneous Dynamics and Counting Problems" mentioned elsewhere.
 
 <h3>Arithmeticity of lattices in higher rank real groups</h3>
 
