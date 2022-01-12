@@ -3,10 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Andreas Wieser
+title: Teaching
 ---
-
-# Teaching
 
 Currently, I am not teaching.
 Here is a selection of previous activities of mine, 

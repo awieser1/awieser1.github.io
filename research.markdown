@@ -3,11 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Andreas Wieser
+title: Research
 ---
-
-
-# Research
 
 	
 Here is a list of my publications from new to old.

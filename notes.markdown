@@ -2,11 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: subpage
-title: Andreas Wieser
+layout: default
+title: Lecture notes and other writings
 ---
-
-# Lecture notes and other writings
 
 
 ### Feedback and self-assessment <br> in undergraduate student seminars in mathematics
