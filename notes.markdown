@@ -2,13 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: subpage
 title: Andreas Wieser
 ---
-
-<p style="color:red">
-This site is in the works.
-</p>
 
 # Lecture notes and other writings
 
@@ -16,8 +12,7 @@ This site is in the works.
 ### Feedback and self-assessment <br> in undergraduate student seminars in mathematics
 
 with <a href="https://manuelluethi.github.io/">Manuel Luethi</a>, ETH Learning and Teaching Journal, Vol 2, No 1, 2020. Link <a href="https://learningteaching.ethz.ch/index.php/lt-eth/article/view/77/38">here</a>  
-<details style="color:gray">
-    <summary>Abstract</summary>
+<details style="color:gray"><summary>Abstract</summary>
     In this article we will discuss bachelor’s seminars in mathematics at ETH. Most students (in 
 these  seminars)  are  neither  used  to  individually  preparing  material  from  textbooks  nor  to discussing advances mathematics with fellow students. 
 As these seminars usually follow a single thread, it is often impossible to quickly catch up on 
@@ -79,16 +74,16 @@ Ordinary differential equations.
 What is... the shape of a lattice?
 </h3>
 
-<a href="lecture_notes/what_is.pdf">These</a> are colloquial notes for a talk I gave in the 
-<a href="https://www.math.uzh.ch/index.php?id=ve_KO_det&key2=1187&semId=38">"What is...?"-seminar</a> of the Zurich Graduate School of Mathematics.
+[These](lecture_notes/what_is.pdf) are colloquial notes for a talk I gave in the 
+<a href="https://www.math.uzh.ch/index.php?id=ve_ko_det&key1=0&key2=1144&key3=121&semId=37">"What is...?"-seminar</a> of the Zurich Graduate School of Mathematics.
 
 <h3>On the "Banana"-Trick of Margulis</h3>
 
-Short and very preliminary [notes](lecture_notes/banana.pdf) <a href="lecture_notes/banana.pdf">notes</a> explaining the thickening trick developed by G.A. Margulis in a specific instance. These were used in the seminar "Homogeneous Dynamics and Counting Problems" mentioned elsewhere.
+Short and very preliminary [notes](lecture_notes/banana.pdf) explaining the thickening trick developed by G.A. Margulis in a specific instance. These were used in the seminar "Homogeneous Dynamics and Counting Problems" mentioned elsewhere.
 
 <h3>Arithmeticity of lattices in higher rank real groups</h3>
 
-Preliminary <a href="lecture_notes/ArithmeticityMargulis.pdf">notes</a> for a talk I gave in an informal reading course in Zurich, fall 2019. 
+Preliminary [notes](lecture_notes/ArithmeticityMargulis.pdf) for a talk I gave in an informal reading course in Zurich, fall 2019. 
 The aim of these notes is to deduce arithmeticity of lattices in higher-rank real groups from Margulis' superrigidity result.
 
 

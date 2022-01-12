@@ -6,9 +6,6 @@ layout: default
 title: Andreas Wieser
 ---
 
-<p style="color:red">
-This site is currently in the works.
-</p>
 
 # About me
 
