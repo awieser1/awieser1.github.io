@@ -9,6 +9,15 @@ title: Research
 	
 Here is a list of my publications from new to old.
 <ol>
+<!-- With Pengyu 1 -->
+<li>
+A. Wieser and P.Yang. <a href="https://arxiv.org/abs/2201.05380" style="color:blue"> A uniform Linnik basic lemma and entropy bounds </a>. 2022, arXiv:2201.05380.
+<details style="color:gray">
+    <summary>Abstract</summary>
+    We prove a version of Linnik's basic lemma uniformly over the base field using theta-series and geometric invariant theory in the spirit of Khayutin's approach (Duke Math. J., 168(12), 2019). As an application, we establish entropy bounds for limits of invariant measures on homogeneous toral sets in GL(4) of biquadratic, cyclic, or dihedral type.
+</details> 
+</li>
+
 <!-- higherdim subspaces -->
 <li>
 M. Aka, A. Musso, and A. Wieser. <a href="https://arxiv.org/abs/2103.05163" style="color:blue"> Equidistribution of rational subspaces and their shapes </a>. 2021, arXiv:2103.05163.
