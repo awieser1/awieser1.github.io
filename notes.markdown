@@ -29,8 +29,8 @@ We  will  evaluate  the success  of  these  measures  and,  where  success  is  
 the updated work-in-progress is <a href="https://people.math.ethz.ch/~einsiedl/Analysis-Skript.pdf">here</a>.</p>
 
 These are extensive lecture notes in German for the first year course in analysis at ETH Zurich. 
-They were in particular used in the academic years 2016-2017 (see <a href="https://metaphor.ethz.ch/x/2017/fs/401-1262-07L/">this</a> link) and 2017-2018 (see <a href="https://metaphor.ethz.ch/x/2017/hs/401-1261-07L/">this</a> and <a href="https://metaphor.ethz.ch/x/2018/fs/401-1262-07L/">this</a> link)
-and will be used in the next academic year 2021-2022 (see <a href="https://metaphor.ethz.ch/x/2021/hs/401-1261-07L/">this</a> link).
+They were mostly developed in the academic years 2016-2017 (see <a href="https://metaphor.ethz.ch/x/2017/fs/401-1262-07L/">this</a> link) and 2017-2018 (see <a href="https://metaphor.ethz.ch/x/2017/hs/401-1261-07L/">this</a> and <a href="https://metaphor.ethz.ch/x/2018/fs/401-1262-07L/">this</a> link)
+and have been used henceforth (see for example <a href="https://metaphor.ethz.ch/x/2021/hs/401-1261-07L/">this</a> link).
 The topics covered are roughly the following:
 <ul>
 <li>
