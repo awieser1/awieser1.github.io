@@ -9,6 +9,17 @@ title: Research
 	
 Here is a list of my publications from new to old.
 <ol>
+<!-- With Omri 1 -->
+<li>
+O.Solan and A.Wieser. <a href="https://arxiv.org/abs/2301.10671" style="color:blue"> Birkhoff generic points on curves in horospheres
+ </a>. 2023, arXiv:2301.10671.
+<details style="color:gray">
+    <summary>Abstract</summary>
+    Let $\{a_t:t∈\R\}<SL_d(\R)$ be a diagonalizable subgroup whose expanding horospherical subgroup $U<SL_d(\R)$ is abelian. By the Birkhoff ergodic theorem, for any $x\in \SL_d(\R)/SL_d(\Z)$ and for almost every point $u\in U$ the point $ux$ is Birkhoff generic for $a_t$ when $t\to \infty$. We prove that the same is true when $U$ is replaced by any non-degenerate analytic curve in $U$.
+This Birkhoff genericity result has various applications in Diophantine approximation. For instance, we obtain density estimates for Dirichlet improvability along typical points on a curve in Euclidean space. Other applications address approximations by algebraic numbers and best approximations (in the sense of Lagarias).
+</details> 
+</li>
+
 <!-- With Pengyu 1 -->
 <li>
 A. Wieser and P.Yang. <a href="https://arxiv.org/abs/2201.05380" style="color:blue"> A uniform Linnik basic lemma and entropy bounds </a>. 2022, arXiv:2201.05380.
