@@ -41,7 +41,8 @@ M. Aka, A. Musso, and A. Wieser. <a href="https://arxiv.org/abs/2103.05163" styl
 
 <!-- CMSS -->
 <li>
-M. Aka, M. Luethi, Ph. Michel and A. Wieser. <a href="https://arxiv.org/abs/2005.01537" style="color:blue"> Simultaneous supersingular reductions of CM elliptic curves </a>. 2020, arXiv:2005.01537.
+M. Aka, M. Luethi, Ph. Michel and A. Wieser. <a href="https://www.degruyter.com/document/doi/10.1515/crelle-2021-0086/html" style="color:blue"> 
+Simultaneous supersingular reductions of CM elliptic curves </a>.  J. Reine Angew. Math. 786 (2022), 1-43.
 	<details style="color:gray">
     <summary>Abstract</summary>
  We study the simultaneous reductions at several supersingular primes of elliptic curves with complex multiplication. 
@@ -54,7 +55,8 @@ M. Aka, M. Luethi, Ph. Michel and A. Wieser. <a href="https://arxiv.org/abs/2005
 
 <!-- 2in4 -->
 <li>
-M. Aka, M. Einsiedler and A. Wieser. <a href="https://arxiv.org/abs/1901.05833" style="color:blue"> Planes in four space and four associated CM points</a>. To appear in Duke Math J., see also arXiv:1901.05833.
+M. Aka, M. Einsiedler and A. Wieser. <a href="https://arxiv.org/abs/1901.05833" style="color:blue"> Planes in four space and four associated CM points</a>. 
+Duke Math. J. 171 (2022), no. 7, 1469-1529.
 	<details style="color:gray">
     <summary>Abstract</summary>
 To any two-dimensional rational plane in four-dimensional space one can naturally attach a point in the Grassmannian $\operatorname{Gr}(2,4)$ and four lattices of rank two.
@@ -66,7 +68,7 @@ As an application of a recent result of Einsiedler and Lindenstrauss on algebrai
 
 <!-- Linnik1-->
 <li>
-A. Wieser. <a href="https://arxiv.org/abs/1801.09012" style="color:blue"> Linnik's problems and maximal entropy methods</a>. Monatshefte für Mathematik, https://doi.org/10.1007/s00605-019-01320-7, 2019.
+A. Wieser. <a href="https://arxiv.org/abs/1801.09012" style="color:blue"> Linnik's problems and maximal entropy methods</a>. Monatsh. Math. 190 (2019), 153-208.
 	<details style="color:gray">
     <summary>Abstract</summary>
 We use maximal entropy methods to examine the distribution properties of primitive integer points on spheres and of CM points on the modular surface. 
