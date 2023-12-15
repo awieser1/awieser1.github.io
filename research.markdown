@@ -9,6 +9,16 @@ title: Research
 	
 Here is a list of my publications from new to old.
 <ol>
+<!-- With Menny,Peter,Alison 1 -->
+<li>
+M.Aka, P.Feller, A.B.Miller, and A.Wieser <a href="https://arxiv.org/abs/2311.17746" style="color:blue"> Seifert surfaces in the four-ball and composition of binary quadratic forms
+ </a>. 2023, arXiv:2311.17746.
+<details style="color:gray">
+    <summary>Abstract</summary>
+We use composition of binary quadratic forms to systematically create pairs of Seifert surfaces that are non-isotopic in the four-ball. Our main result employs Gauss composition to classify the pairs of binary quadratic forms that arise as the Seifert forms of pairs of disjoint Seifert surfaces of genus one. The main ingredient of the proof is number theoretic and of independent interest. It establishes a new connection between the Bhargava cube and the geometric approach to Gauss composition via planes in the space of two-by-two matrices.
+</details> 
+</li>
+
 <!-- With Omri 1 -->
 <li>
 O.Solan and A.Wieser. <a href="https://arxiv.org/abs/2301.10671" style="color:blue"> Birkhoff generic points on curves in horospheres
