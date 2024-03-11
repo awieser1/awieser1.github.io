@@ -17,6 +17,7 @@ M.Aka, P.Feller, A.B.Miller, and A.Wieser <a href="https://arxiv.org/abs/2311.17
     <summary>Abstract</summary>
 We use composition of binary quadratic forms to systematically create pairs of Seifert surfaces that are non-isotopic in the four-ball. Our main result employs Gauss composition to classify the pairs of binary quadratic forms that arise as the Seifert forms of pairs of disjoint Seifert surfaces of genus one. The main ingredient of the proof is number theoretic and of independent interest. It establishes a new connection between the Bhargava cube and the geometric approach to Gauss composition via planes in the space of two-by-two matrices.
 </details> 
+<a href="https://lrobert.perso.math.cnrs.fr/Kos/Video/KOS-AMiller2.mp4">Here</a> is a talk by my coauthor A.B.Miller on the topic.
 </li>
 
 <!-- With Omri 1 -->
