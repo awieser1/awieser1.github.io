@@ -41,7 +41,7 @@ A. Wieser and P.Yang. <a href="https://arxiv.org/abs/2201.05380" style="color:bl
 
 <!-- higherdim subspaces -->
 <li>
-M. Aka, A. Musso, and A. Wieser. <a href="https://arxiv.org/abs/2103.05163" style="color:blue"> Equidistribution of rational subspaces and their shapes </a>. 2021, arXiv:2103.05163.
+M. Aka, A. Musso, and A. Wieser. <a href="https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/equidistribution-of-rational-subspaces-and-their-shapes/2A4FB5618EBA84A74B3EA42A06AC02E8" style="color:blue"> Equidistribution of rational subspaces and their shapes </a>. 2021, to appear in ETDS.
 <details style="color:gray">
     <summary>Abstract</summary>
     To any $k$-dimensional subspace of $\mathbb{Q}^n$ one can naturally associate a point in the Grassmannian $\mathrm{Gr}_{n,k}(\mathbb{R})$ and two shapes of lattices of rank $k$ and $n-k$ respectively. 
