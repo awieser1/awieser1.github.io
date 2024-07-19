@@ -9,6 +9,15 @@ title: Research
 	
 Here is a list of my publications from new to old.
 <ol>
+<li>
+A.Wieser <a href="https://arxiv.org/abs/2407.12760" style="color:blue"> Effective equidistribution of orbits under semisimple groups on congruence quotients
+ </a>. 2024, arXiv:2407.12760.
+<details style="color:gray">
+    <summary>Abstract</summary>
+We prove an effective equidistribution result for periodic orbits of semisimple groups on congruence quotients of an ambient semisimple group. This extends previous work of Einsiedler, Margulis and Venkatesh. The main new feature is that we allow for periodic orbits of semisimple groups with nontrivial centralizer in the ambient group. Our proof uses crucially an effective closing lemma from work with Lindenstrauss, Margulis, Mohammadi, and Shah.
+</details>
+</li>
+
 <!-- With Menny,Peter,Alison 1 -->
 <li>
 M.Aka, P.Feller, A.B.Miller, and A.Wieser <a href="https://arxiv.org/abs/2311.17746" style="color:blue"> Seifert surfaces in the four-ball and composition of binary quadratic forms
