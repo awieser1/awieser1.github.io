@@ -8,7 +8,7 @@ title: Teaching
 
 Currently, I am not teaching.
 Here is a selection of previous activities of mine, 
-see my <a href="empty.html">CV</a> for a complete list as well as the tab 'Lecture notes etc' for my writing activities which I did not include here.
+see my [CV](cv_AW.pdf) for a complete list as well as the tab 'Lecture notes etc' for my writing activities which I did not include here.
 
 <h3>Teaching assistant</h3>
 <ul>
