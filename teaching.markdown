@@ -22,7 +22,7 @@ This was a continuation of the course <a href="https://metaphor.ethz.ch/x/2019/f
 <ul>
 <li>Spring 2019: I organized the <a href="https://metaphor.ethz.ch/x/2019/fs/401-3110-19L/">seminar</a> 
 "Primes of the form $x^2+ny^2$" with <a href="https://people.math.ethz.ch/~menashea/">Menny Aka</a> and <a href="https://manuelluethi.github.io/">Manuel Luethi</a> that roughly treated the first half of D.A. Cox' book with the same title.</li>
-<li>2018/2019: <a>Jennifer-Jayne Jakob</a> and I organized the graduate seminar "What's so cool about..?" where professors give talks explaining what's "cool" about their research. 
+<li>2018/2019: <a>Jennifer-Jayne Jakob</a> and I organized the graduate seminar "What's so cool about..?" where professors explain what's "cool" about their research. 
 See <a href="https://math.ethz.ch/news-and-events/events/research-seminars/whats-so-cool-about.html?s=hs18">this</a> link for the speakers in the spring semester.</li>
 <li>Spring 2018: I organized the <a href="https://metaphor.ethz.ch/x/2018/fs/401-3370-67L/">seminar</a> "Homogeneous Dynamics and Counting Problems" with 
 <a href="https://people.math.ethz.ch/~einsiedl/">Manfred Einsiedler</a> and <a href="https://manuelluethi.github.io/">Manuel Luethi</a>.</li>

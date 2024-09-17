@@ -72,7 +72,7 @@ Ordinary differential equations.
 What is... the shape of a lattice?
 </h3>
 
-[These](lecture_notes/what_is.pdf) are colloquial notes for a talk I gave in the 
+[These](lecture_notes/what_is.pdf) are by now slightly outdated colloquial notes for a talk I gave in the 
 <a href="https://www.math.uzh.ch/index.php?id=ve_ko_det&key1=0&key2=1144&key3=121&semId=37">"What is...?"-seminar</a> of the Zurich Graduate School of Mathematics.
 
 <h3>On the "Banana"-Trick of Margulis</h3>
