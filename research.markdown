@@ -10,6 +10,13 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
+E.Lindenstrauss, G.Margulis, A.Mohammadi, N.Shah, A.Wieser <a href="https://arxiv.org/abs/2410.19305" style="color:blue">An effective closing lemma for unipotent flows</a>. 2024, arXiv:2410.19305.
+<details style="color:gray">
+    <summary>Abstract</summary>
+We prove an effective closing lemma for unipotent flows on quotients of perfect real groups. This is largely motivated by recent developments in effective unipotent dynamics.
+</details>
+</li>
+<li>
 A.Wieser <a href="https://arxiv.org/abs/2407.12760" style="color:blue"> Effective equidistribution of orbits under semisimple groups on congruence quotients
  </a>. 2024, arXiv:2407.12760.
 <details style="color:gray">
