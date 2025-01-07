@@ -10,6 +10,19 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
+M.Einsiedler, E.Lindenstrauss, A.Mohammadi, A.Wieser <a>Effective equidistribution of semisimple adelic periods I:
+anisotropic groups</a>, in preparation.
+<details style="color:gray">
+    <summary>Abstract</summary>
+We prove an effective equidistribution theorem for semisimple closed orbits on compact adelic quotients. The obtained error depends polynomially on the minimal complexity of intermediate orbits and the complexity of the ambient space.
+The proof uses dynamical arguments, Clozel's property $(\tau)$, Prasad's volume formula, an effective closing lemma, and a novel effective generation result for subgroups. The latter in turn relies on an effective version of Greenberg's theorem.
+
+We apply the above to the problem of establishing a local-global principle for representations of quadratic forms, improving the codimension assumptions and providing effective bounds in a theorem of Ellenberg and Venkatesh.
+</details>
+<a href="https://www.youtube.com/watch?v=dq93C2hfQ1k">Here</a> is a talk of mine on this topic at the IAS.
+</li>
+
+<li>
 E.Lindenstrauss, G.Margulis, A.Mohammadi, N.Shah, A.Wieser <a href="https://arxiv.org/abs/2410.19305" style="color:blue">An effective closing lemma for unipotent flows</a>. 2024, arXiv:2410.19305.
 <details style="color:gray">
     <summary>Abstract</summary>
