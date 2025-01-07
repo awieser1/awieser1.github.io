@@ -8,8 +8,7 @@ title: Contact
 
 ### Address
 
-<span style="white-space: pre-line">
-1 Einstein Drive 
+<span style="white-space: pre-line">1 Einstein Drive 
 Institute of Advanced Study
 Princeton, NJ 08540
 </span>
