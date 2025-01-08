@@ -15,7 +15,7 @@ anisotropic groups</a>, in preparation.
 <details style="color:gray">
     <summary>Abstract</summary>
 We prove an effective equidistribution theorem for semisimple closed orbits on compact adelic quotients. The obtained error depends polynomially on the minimal complexity of intermediate orbits and the complexity of the ambient space.
-The proof uses dynamical arguments, Clozel's property $(\tau)$, Prasad's volume formula, an effective closing lemma, and a novel effective generation result for subgroups. The latter in turn relies on an effective version of Greenberg's theorem.
+The proof uses dynamical arguments, property $(\tau)$, Prasad's volume formula, an effective closing lemma, and a novel effective generation result for subgroups. The latter in turn relies on an effective version of Greenberg's theorem.
 
 We apply the above to the problem of establishing a local-global principle for representations of quadratic forms, improving the codimension assumptions and providing effective bounds in a theorem of Ellenberg and Venkatesh.
 </details>
