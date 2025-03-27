@@ -10,8 +10,7 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
-M.Einsiedler, E.Lindenstrauss, A.Mohammadi, A.Wieser <a>Effective equidistribution of semisimple adelic periods I:
-anisotropic groups</a>, in preparation.
+M.Einsiedler, E.Lindenstrauss, A.Mohammadi, A.Wieser <a>Effective equidistribution of semisimple adelic periods and representations of quadratic forms</a>. 2025.
 <details style="color:gray">
     <summary>Abstract</summary>
 We prove an effective equidistribution theorem for semisimple closed orbits on compact adelic quotients. The obtained error depends polynomially on the minimal complexity of intermediate orbits and the complexity of the ambient space.
@@ -73,7 +72,7 @@ A. Wieser and P.Yang. <a href="https://arxiv.org/abs/2201.05380" style="color:bl
 
 <!-- higherdim subspaces -->
 <li>
-M. Aka, A. Musso, and A. Wieser. <a href="https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/equidistribution-of-rational-subspaces-and-their-shapes/2A4FB5618EBA84A74B3EA42A06AC02E8" style="color:blue"> Equidistribution of rational subspaces and their shapes </a>. To appear in ETDS.
+M. Aka, A. Musso, and A. Wieser. <a href="https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/equidistribution-of-rational-subspaces-and-their-shapes/2A4FB5618EBA84A74B3EA42A06AC02E8" style="color:blue"> Equidistribution of rational subspaces and their shapes </a>. Ergod. Theory Dyn. Syst. 44(8) 2009-2062, 2024.
 <details style="color:gray">
     <summary>Abstract</summary>
     To any $k$-dimensional subspace of $\mathbb{Q}^n$ one can naturally associate a point in the Grassmannian $\mathrm{Gr}_{n,k}(\mathbb{R})$ and two shapes of lattices of rank $k$ and $n-k$ respectively. 
