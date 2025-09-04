@@ -10,7 +10,7 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
-M.Einsiedler, E.Lindenstrauss, A.Mohammadi, A.Wieser <a href="https://arxiv.org/abs/2503.21068" style="color:blue">Effective equidistribution of semisimple adelic periods and representations of quadratic forms</a>. 2025.
+M.Einsiedler, E.Lindenstrauss, A.Mohammadi, A.Wieser <a href="https://arxiv.org/abs/2503.21068" style="color:blue">Effective equidistribution of semisimple adelic periods and representations of quadratic forms</a>. 2025, arXiv:2503.2106.
 <details style="color:gray">
     <summary>Abstract</summary>
 We prove an effective equidistribution theorem for semisimple closed orbits on compact adelic quotients. The obtained error depends polynomially on the minimal complexity of intermediate orbits and the complexity of the ambient space.
