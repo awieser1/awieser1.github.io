@@ -22,7 +22,7 @@ We apply the above to the problem of establishing a local-global principle for r
 </li>
 
 <li>
-E.Lindenstrauss, G.Margulis, A.Mohammadi, N.Shah, A.Wieser <a href="https://arxiv.org/abs/2410.19305" style="color:blue">An effective closing lemma for unipotent flows</a>. 2024, arXiv:2410.19305.
+E.Lindenstrauss, G.Margulis, A.Mohammadi, N.Shah, A.Wieser <a href="https://arxiv.org/abs/2410.19305" style="color:blue">An effective closing lemma for unipotent flows</a>. 2024, to appear in Journal d'Analyse Mathématique.
 <details style="color:gray">
     <summary>Abstract</summary>
 We prove an effective closing lemma for unipotent flows on quotients of perfect real groups. This is largely motivated by recent developments in effective unipotent dynamics.
@@ -51,7 +51,7 @@ We use composition of binary quadratic forms to systematically create pairs of S
 <!-- With Omri 1 -->
 <li>
 O.Solan and A.Wieser. <a href="https://arxiv.org/abs/2301.10671" style="color:blue"> Birkhoff generic points on curves in horospheres
- </a>. 2023, arXiv:2301.10671.
+ </a>. 2023, to appear in Selecta Mathematica.
 <details style="color:gray">
     <summary>Abstract</summary>
     Let $\{a_t:t∈\R\}<SL_d(\R)$ be a diagonalizable subgroup whose expanding horospherical subgroup $U<SL_d(\R)$ is abelian. By the Birkhoff ergodic theorem, for any $x\in \SL_d(\R)/SL_d(\Z)$ and for almost every point $u\in U$ the point $ux$ is Birkhoff generic for $a_t$ when $t\to \infty$. We prove that the same is true when $U$ is replaced by any non-degenerate analytic curve in $U$.
@@ -63,7 +63,7 @@ This Birkhoff genericity result has various applications in Diophantine approxim
 
 <!-- With Pengyu 1 -->
 <li>
-A. Wieser and P.Yang. <a href="https://arxiv.org/abs/2201.05380" style="color:blue"> A uniform Linnik basic lemma and entropy bounds </a>. 2022, arXiv:2201.05380.
+A. Wieser and P.Yang. <a href="https://arxiv.org/abs/2201.05380" style="color:blue"> A uniform Linnik basic lemma and entropy bounds </a>. 2022, to appear in Commentarii Mathematici Helvetici.
 <details style="color:gray">
     <summary>Abstract</summary>
     We prove a version of Linnik's basic lemma uniformly over the base field using theta-series and geometric invariant theory in the spirit of Khayutin's approach (Duke Math. J., 168(12), 2019). As an application, we establish entropy bounds for limits of invariant measures on homogeneous toral sets in GL(4) of biquadratic, cyclic, or dihedral type.
