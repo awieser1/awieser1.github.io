@@ -10,6 +10,11 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
+W.Kim, A.Wieser, P.Yang <a style="color:blue">Representations of binary by quaternary quadratic forms</a>. preprint 2025.
+
+<a href="https://www.youtube.com/watch?v=UbS72l3L-JU">Here</a> is a talk of mine on this topic at the IAS.
+</li>
+<li>
 M.Einsiedler, E.Lindenstrauss, A.Mohammadi, A.Wieser <a href="https://arxiv.org/abs/2503.21068" style="color:blue">Effective equidistribution of semisimple adelic periods and representations of quadratic forms</a>. 2025, arXiv:2503.2106.
 <details style="color:gray">
     <summary>Abstract</summary>
