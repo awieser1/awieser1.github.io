@@ -10,7 +10,18 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
-W.Kim, A.Wieser, P.Yang <a style="color:blue">Representations of binary by quaternary quadratic forms</a>. preprint 2025.
+W.Kim, A.Wieser, P.Yang <a href="https://awieser1.github.io/articles/LocalGlobal2in4.pdf" style="color:blue">Representations of binary by quaternary quadratic forms</a>. preprint 2025.
+<details style="color:gray">
+    <summary>Abstract</summary>
+We prove a local-global principle for representations of binary by
+quaternary quadratic forms. One of the main ingredients is a recent measure
+rigidity result of Einsiedler and Lindenstrauss for diagonalizable actions on
+quotients of products of SL 2 ’s. Based on this, it suffices to show that limits
+of the uniform measures on the associated rank one adelic toral packets have
+more entropy than one half of the maximal entropy. The latter is proved using
+the Siegel mass formula and the determinant method as developed by Bombieri
+and Pila as well as Heath-Brown.
+</details>
 
 <a href="https://www.youtube.com/watch?v=UbS72l3L-JU">Here</a> is a talk of mine on this topic at the IAS.
 </li>
