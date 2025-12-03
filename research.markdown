@@ -10,7 +10,7 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
-W.Kim, A.Wieser, P.Yang <a href="https://awieser1.github.io/articles/LocalGlobal2in4.pdf" style="color:blue">Representations of binary by quaternary quadratic forms</a>. preprint 2025.
+W.Kim, A.Wieser, P.Yang <a href="https://arxiv.org/abs/2511.22877" style="color:blue">Representations of binary by quaternary quadratic forms</a>. 2025, arXiv:2511.22877.
 <details style="color:gray">
     <summary>Abstract</summary>
 We prove a local-global principle for representations of binary by
