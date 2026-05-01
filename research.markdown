@@ -10,20 +10,31 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
+W.Kim, A.Wieser, P.Yang <a href="https://arxiv.org/abs/2604.19437" style="color:blue">Representations of binary quadratic forms by quaternary quadratic forms</a>. 2026, arXiv:2604.19437.
+<details style="color:gray">
+    <summary>Abstract</summary>
+We prove a local-global principle for primitive representations of binary quadratic forms by quaternary quadratic forms. Our method is a variant of Linnik's ergodic method showing density for certain homogenous toral sets. The central ingredient is a measure classification result of Einsiedler and Lindenstrauss for actions of rank two diagonalizable groups on quotients of products of SL_2's. This rigidity result together with an application of the Siegel mass formula reduces the density problem to a counting problem on a certain affine variety. We solve that counting problem using the determinant method of Bombieri-Pila and Heath-Brown. 
+</details>
+
+<a href="https://www.youtube.com/watch?v=UbS72l3L-JU">Here</a> is a talk of mine on this topic at the IAS.
+</li>
+
+
+<li>
 W.Kim, A.Wieser, P.Yang <a href="https://arxiv.org/abs/2511.22877" style="color:blue">Representations of binary by quaternary quadratic forms</a>. 2025, arXiv:2511.22877.
 <details style="color:gray">
     <summary>Abstract</summary>
 We prove a local-global principle for representations of binary by
 quaternary quadratic forms. One of the main ingredients is a recent measure
 rigidity result of Einsiedler and Lindenstrauss for diagonalizable actions on
-quotients of products of SL 2 ’s. Based on this, it suffices to show that limits
+quotients of products of SL_2’s. Based on this, it suffices to show that limits
 of the uniform measures on the associated rank one adelic toral packets have
 more entropy than one half of the maximal entropy. The latter is proved using
 the Siegel mass formula and the determinant method as developed by Bombieri
 and Pila as well as Heath-Brown.
 </details>
 
-<a href="https://www.youtube.com/watch?v=UbS72l3L-JU">Here</a> is a talk of mine on this topic at the IAS.
+This is the announcement of the article above and contains a detailed outline. 
 </li>
 <li>
 M.Einsiedler, E.Lindenstrauss, A.Mohammadi, A.Wieser <a href="https://arxiv.org/abs/2503.21068" style="color:blue">Effective equidistribution of semisimple adelic periods and representations of quadratic forms</a>. 2025, arXiv:2503.2106.
