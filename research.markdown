@@ -17,7 +17,6 @@ Let Q=−x_1^2−x_2^2−x_3^2+x_4^2 be the standard signature (1,3) quadratic f
 In this article, we exhibit a natural coupling of all the above objects and prove simultaneous equidistribution under a Linnik-type splitting condition. The main ingredient is the classification of joinings of higher-rank diagonalizable actions on homogeneous spaces due to Einsiedler and Lindenstrauss.
 </details>
 
-<a href="https://www.youtube.com/watch?v=UbS72l3L-JU">Here</a> is a talk of mine on this topic at the IAS.
 </li>
 
 <li>
