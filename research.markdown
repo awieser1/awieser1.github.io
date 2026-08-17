@@ -10,6 +10,17 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
+M.Aka, K.Andritsch, A.Wieser <a href="https://arxiv.org/abs/2606.03472" style="color:blue">Planes in quadratic 4-space and associated shapes of lattices</a>. 2026,  	arXiv:2606.03472.
+<details style="color:gray">
+    <summary>Abstract</summary>
+Let Q=−x_1^2−x_2^2−x_3^2+x_4^2 be the standard signature (1,3) quadratic form. To each non-degenerate rational plane L in the four-dimensional quadratic space (\mathbb{Q}^4,Q) we can naturally attach a periodic geodesic on the Bianchi orbifold SL_2(\mathbb{Z}[i])∖ \mathbb{H}^3 which records the position of L in the Grassmannian up to integer rotations. Moreover, each such plane L defines a CM point and a periodic geodesic on the modular curve through restriction of Q to L and its orthogonal complement. Lastly, the local isomorphism between SO_{1,3}(\mathbb{R}) and SL_2(\mathbb{C}) gives rise to a further periodic geodesic on the Bianchi orbifold.
+In this article, we exhibit a natural coupling of all the above objects and prove simultaneous equidistribution under a Linnik-type splitting condition. The main ingredient is the classification of joinings of higher-rank diagonalizable actions on homogeneous spaces due to Einsiedler and Lindenstrauss.
+</details>
+
+<a href="https://www.youtube.com/watch?v=UbS72l3L-JU">Here</a> is a talk of mine on this topic at the IAS.
+</li>
+
+<li>
 W.Kim, A.Wieser, P.Yang <a href="https://arxiv.org/abs/2604.19437" style="color:blue">Representations of binary quadratic forms by quaternary quadratic forms</a>. 2026, arXiv:2604.19437.
 <details style="color:gray">
     <summary>Abstract</summary>
