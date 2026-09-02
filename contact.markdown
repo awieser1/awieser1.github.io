@@ -8,9 +8,11 @@ title: Contact
 
 ### Address
 
-<span style="white-space: pre-line">1 Einstein Drive 
-Institute of Advanced Study
-Princeton, NJ 08540
+<span style="white-space: pre-line">
+Department of Mathematics, Princeton University
+Office 704, Fine Hall
+Washington Road
+Princeton, NJ 08544, USA
 </span>
 
 ### Email
