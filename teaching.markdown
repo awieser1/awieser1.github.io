@@ -9,7 +9,7 @@ title: Teaching
 <h3>Current teaching</h3>
 
 <p>
-Fall 2026: I am teaching <b>MAT 103 (Calculus I)</b> at Princeton University.
+<b>Fall 2026</b>: I am teaching <b>MAT 103 (Calculus I)</b> at Princeton University.
 Students enrolled in the course are encouraged to visit the
 <a href="https://canvas.princeton.edu/">Princeton Canvas site</a>
 regularly for course information, announcements, and materials.
@@ -17,6 +17,10 @@ regularly for course information, announcements, and materials.
 
 <p>
 <b>Office hours:</b> Mondays, 5:30pm–7pm, in my office (Fine Hall 704).
+</p>
+
+<p>
+<b>Spring 2027</b>: I will be teaching <b>MAT 325 (Harmonic Analysis)</b> at Princeton University.
 </p>
 
 <h3>Previous teaching and seminars</h3>
