@@ -10,6 +10,15 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
+M.Einsiedler, E.Lindenstrauss, Z.Shem-Tov, A.Wieser <a href=https://awieser1.github.io./articles/1dimLyapunov.pdf>Rigidity of higher rank abelian actions with an application to a problem of Littlewood type</a>. 2026.
+<details style="color:gray">
+    <summary>Abstract</summary>
+We prove measure rigidity for positive-entropy actions of non-maximal higher-rank diagonalizable groups on homogeneous spaces, assuming that all coarse Lyapunov subgroups are one-dimensional.
+As an application, we prove a new result regarding Diophantine approximation of Littlewood's type for all n-tuples of real numbers outside of a set of Hausdorff dimension zero.
+</details>
+</li>
+
+<li>
 M.Aka, K.Andritsch, A.Wieser <a href="https://arxiv.org/abs/2606.03472" style="color:blue">Planes in quadratic 4-space and associated shapes of lattices</a>. 2026,  	arXiv:2606.03472.
 <details style="color:gray">
     <summary>Abstract</summary>
