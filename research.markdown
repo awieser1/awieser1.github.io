@@ -40,7 +40,7 @@ We prove a local-global principle for primitive representations of binary quadra
 
 
 <li>
-W.Kim, A.Wieser, P.Yang <a href="https://arxiv.org/abs/2511.22877" style="color:blue">Representations of binary by quaternary quadratic forms</a>. 2025, arXiv:2511.22877.
+W.Kim, A.Wieser, P.Yang <a href="https://arxiv.org/abs/2511.22877" style="color:blue">Representations of binary by quaternary quadratic forms</a>. 2025, arXiv:2511.22877. To appear in Comptes Rendus Mathématique. 
 <details style="color:gray">
     <summary>Abstract</summary>
 We prove a local-global principle for representations of binary by
