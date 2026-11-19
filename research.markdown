@@ -10,7 +10,7 @@ title: Research
 Here is a list of my publications from new to old.
 <ol>
 <li>
-M.Einsiedler, E.Lindenstrauss, Z.Shem-Tov, A.Wieser <a href=https://awieser1.github.io./articles/1dimLyapunov.pdf>Rigidity of higher rank abelian actions with an application to a problem of Littlewood type</a>. 2026.
+M.Einsiedler, E.Lindenstrauss, Z.Shem-Tov, A.Wieser <a href="https://awieser1.github.io./articles/1dimLyapunov.pdf" style="color:blue">Rigidity of higher rank abelian actions with an application to a problem of Littlewood type</a>. 2026.
 <details style="color:gray">
     <summary>Abstract</summary>
 We prove measure rigidity for positive-entropy actions of non-maximal higher-rank diagonalizable groups on homogeneous spaces, assuming that all coarse Lyapunov subgroups are one-dimensional.
